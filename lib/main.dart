@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
               ),
-              SizedBox(height: 90.0),
+              SizedBox(height: 70.0),
               Center(
                 child: Container(
                   height: 250.0,
@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
               ),
-              SizedBox(height: 60.0),
+              SizedBox(height: 50.0),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 20.0),
                 child: Slider(
@@ -115,7 +115,7 @@ class _HomePageState extends State<HomePage> {
                   },
                 ),
               ),
-              SizedBox(height: 40),
+              SizedBox(height: 35),
               Container(
                 margin: EdgeInsets.symmetric(horizontal: 30.0),
                 height: 80.0,
