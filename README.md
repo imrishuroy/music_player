@@ -1,10 +1,3 @@
 # music_player
 
-<img src="https://github.com/imrishuroy/Images/blob/main/tracker3.jpg" width="400" height="800"/>
-<img src="https://github.com/imrishuroy/Images/blob/main/tracker4.jpg" width="400" height="800"/>
-<img src="https://github.com/imrishuroy/Images/blob/main/tracker2.jpg" width="400" height="800"/>
-
-<img src="https://github.com/imrishuroy/Images/blob/main/tracker1.jpg" width="400" height="800"/>
-
-
-
+<img src="https://github.com/imrishuroy/Images/blob/main/Simulator Screen Shot - iPhone 11 - 2020-11-08 at 11.53.16.png" width="400" height="800"/>
